@@ -21,4 +21,27 @@ Created a pivot table using two data sets and used leftjoin and used the leftjoi
 
 Tableau
 Interactive Dashboard.
-link for the interactive dashboard is located in tableau
+Link for the interactive dashboard is located in Tableau Dashboard Link folder.
+
+Stock Price Analysis:
+Visualizations of the open and close prices for each Tesla, General Motors and Totota motors throughout 2019.
+
+Daily Return Analysis:
+Box plots displaying the distribution of daily returns for each company, allowing for comparison of volatility and performance.
+
+Trend Analysis:
+Incorporates trend lines to identify and visualize the overall movement in stock prices over time.
+
+Forecasting:
+Forecasting models to predict future stock price trends based on historical data.
+
+Daily Return Percentage:
+Provides percentage-based daily return calculations to evaluate the performance of each stock on a day-to-day basis.
+
+This dashboard enables users to interactively explore and analyze the performance trends and return characteristics of major automotive stocks, supporting informed investment decisions and financial analysis.
+
+
+
+
+
+
