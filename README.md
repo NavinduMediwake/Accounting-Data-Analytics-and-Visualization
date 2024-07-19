@@ -21,7 +21,7 @@ Created a pivot table using two data sets and used leftjoin and used the leftjoi
 
 Tableau
 Interactive Dashboard.
-Link for the interactive dashboard is located in Tableau Dashboard Link folder.
+Link for the interactive dashboard is located in Tableau Dashboard Link folder -Book1-Navindu Mediwake.md file.
 
 Stock Price Analysis:
 Visualizations of the open and close prices for each Tesla, General Motors and Totota motors throughout 2019.
